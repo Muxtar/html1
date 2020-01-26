@@ -1,0 +1,58 @@
+body{
+	margin:0px;
+	background-color:#FFE4C4;
+}
+
+#bio{
+	background-color:black;
+	font-size:35px;
+	height:80px;
+	margin:0px;
+	padding:1px;
+}
+
+.text{
+	font-size:35px;
+	color:white;
+	text-align:center;
+
+	margin:20px;
+}
+
+.title{
+	width:800px;
+	height:800px;
+	margin:10px;
+}
+
+.title2{
+	margin:0px;
+	width:330px;
+	height:330px;
+}
+
+#name_pictur{
+	float:left;
+	width:250px;
+}
+
+#paragraf{
+	float:right;
+	margin:50px;
+	width:450px;
+	font-size:20px;
+}
+
+#fist{
+	float:left;
+
+}
+
+#second{
+	float:right;
+}
+
+#info{
+	float:left;
+	font-size:20px;
+}
